@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+joblib
+streamlit
+torch
+transformers
+sentencepiece
+requests
